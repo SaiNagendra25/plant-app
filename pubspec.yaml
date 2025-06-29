@@ -1,0 +1,15 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  supabase_flutter: ^2.0.0
+  go_router: ^14.0.0 # For navigation
+  image_picker: ^1.0.5 # For picking images
+  timeago: ^3.6.0 # To display relative time
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
